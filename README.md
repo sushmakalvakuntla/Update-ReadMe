@@ -3,6 +3,10 @@
 The react-wood-duck is a series of individual styles and components, that when combined make beautiful, intuitive designs.
 The shared component library gives developers a collection of re-usable React components and SCSS partials for building their products.
 
+## List of components and Updates
+
+see the wiki 
+
 ## Installation
 
 using npm,
@@ -57,5 +61,8 @@ Version react-wood-duck after you made changes.
 ## Publish to NPM
 
         npm publish -m “ your message/version number”
+	
+## Documentation
+
 
 
