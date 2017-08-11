@@ -34,9 +34,9 @@ Clone the repository from git
 
         git clone link
 
-Create or modify the components in react-wood-duck/src  
-After creating/modifying the react components, to compile the code in "src" and bundle them in “dist” folder locally
-run as,
+Create or modify the react components in react-wood-duck/src.
+
+compile the code in "src" and bundle them in “dist” folder locally, run
 
 	npm run pre publish
         
