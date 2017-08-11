@@ -17,7 +17,7 @@ Now, you can import the components from the library into the application as,
  
    For example, using component from react-wood-duck to the application app/javascripts/components/hello_react.jsx .      
         
-  ![Alt text](https://user-images.githubusercontent.com/30934662/29227194-c8865c40-7e89-11e7-982c-2b07eab60928.png height= "30" width = "30")
+  ![Alt text]("https://user-images.githubusercontent.com/30934662/29227194-c8865c40-7e89-11e7-982c-2b07eab60928.png" height= "30" width = "30")
   
 ## Development (src, dist and the build process)
 
