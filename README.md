@@ -25,7 +25,7 @@ Now, you can import the components from the library into the application as,
  
    For example, using component from library(react-wood-duck) in the application app/javascripts/components/hello_react.jsx  
    
-   	<img alt="Syntax highlighted styled component" src="https://user-images.githubusercontent.com/30934662/29230515-456a29cc-7e98-11e7-9fb4-2b1a34a98a55.png" height="300px" />
+   <img alt="Syntax highlighted styled component" src="https://user-images.githubusercontent.com/30934662/29230515-456a29cc-7e98-11e7-9fb4-2b1a34a98a55.png" height="300px" />
   
 ## Development (src, dist and the build process)
 
@@ -53,9 +53,9 @@ when you run this, it compiles the "src" code and generates the transpiled Commo
 Commit the changes and push to GitHub
         
 	git status 
-        git add . 
-        git commit -m “Your Message and specify the updated version number” 
-        git push origin master  
+	git add . 
+	git commit -m “Your Message and specify the updated version number” 
+	git push origin master  
  	
 ## Versioning
 
