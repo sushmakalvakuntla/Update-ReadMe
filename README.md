@@ -7,7 +7,7 @@ The shared component library gives developers a collection of re-usable React co
 
 using npm,
 
-npm install react-wood-duck --save
+    npm install react-wood-duck --save
  
   
 ## Usage
