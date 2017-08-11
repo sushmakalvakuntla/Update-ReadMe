@@ -1,7 +1,9 @@
 # react-wood-duck
 
-The react-wood-duck is a series of individual styles and components, that when combined make beautiful, intuitive designs.
-The shared component library gives developers a collection of re-usable React components and SCSS partials for building their products.
+The react-wood-duck is a shared pattern library hosting re-usable components and styles to be used across all CWDS-NS digital services development teams.
+Contribution and Integration of this pattern library by digital services results in reducing coding efforts for all developers.
+
+
 
 ## List of components and Updates
 
@@ -12,6 +14,10 @@ see the wiki
 using npm,
 
         npm install react-wood-duck --save
+
+for specific version 
+
+	npm install react-wood-duck
   
 ## Usage
 
@@ -39,9 +45,9 @@ Clone the repository from git
 
 Create or modify the react components in react-wood-duck/src.
 
-compile the code in "src" and bundle them in “dist” folder locally, run
-
-	npm run pre publish
+	npm run prepublish
+	
+when you run this, it compiles the "src" code and generates the transpiled CommonJS in “dist” folder within your local machine 
         
 ## Push to git
 
@@ -56,8 +62,9 @@ Commit the changes and push to GitHub
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository] 
 Version react-wood-duck after you made changes. 
- “ npm version patch” —> it updates the package version automatically in package.json
- 
+
+	npm version patch/minor/major
+	
 ## Publish to NPM
 
         npm publish -m “ your message/version number”
