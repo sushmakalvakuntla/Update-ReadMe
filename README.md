@@ -21,13 +21,42 @@ Now, you can import the components from the library into the application as,
   
 ## Development (src, dist and the build process)
 
-NOTE: The source code for the component is in src. A transpiled CommonJS version (generated with Babel) is available in dist for use with node.js and webpack. 
+NOTE: The source code for the component is in src. A transpiled CommonJS version (generated with Babel) is available in dist for use with node.js and webpack.A UMD bundle is also built to dist, which can be included without the need for any build system.
+
 
 ## Contributing
+See the [contributing guidlines]() for details on our code of conduct,
+You can contribute by adding and modifying new or excisting components and styles.
 
-Please read [CONTRIBUTING.md](http/ .     ) for details on our code of conduct, and the process for submitting pull requests to us.
+### To Add/Modify Components
 
+Clone the repository from git
+
+        git clone link
+
+Create or modify the components in react-wood-duck/src  
+After creating/modifying the react components, to compile the code in "src" and bundle them in “dist” folder locally
+run as,
+
+	npm run pre publish
+        
+## Push to git
+
+Commit the changes and push to GitHub
+        
+        git status 
+        git add . 
+        git commit -m “Your Message and specify the updated version number” 
+        git push origin master  
+ 	
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository] 
+Version react-wood-duck after you made changes. 
+ “ npm version patch” —> it updates the package version automatically in package.json
+ 
+## Publish to NPM
+
+        npm publish -m “ your message/version number”
+
 
