@@ -1,15 +1,21 @@
 # react-wood-duck
+
+The react-wood-duck is a series of individual styles and components, that when combined make beautiful, intuitive designs.
+The shared component library gives developers a collection of re-usable React components and SCSS partials for building their products.
+
 ## Installation
 
-The easiest way to use react-woodduck is to install it from NPM and include it in your own React build process (using Browserify, Webpack, etc).
+using npm,
 
-You can also use the standalone build by including dist/react-woodduck.js in your page. If you use this, make sure you have already included React, and it is available as a global variable.
+npm install react-wood-duck --save
  
   
 ## Usage
 
 
-
+   
+     
+  
 
 ## Development (src, lib and the build process)
 
