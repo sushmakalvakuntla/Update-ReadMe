@@ -1,5 +1,5 @@
 # react-wood-duck
-# Installation
+## Installation
 
 The easiest way to use react-woodduck is to install it from NPM and include it in your own React build process (using Browserify, Webpack, etc).
 
@@ -7,12 +7,12 @@ You can also use the standalone build by including dist/react-woodduck.js in you
 
 npm install react-woodduck --save
 
-# Usage
+## Usage
 
 
 
 
-# Development (src, lib and the build process)
+## Development (src, lib and the build process)
 
 NOTE: The source code for the component is in src. A transpiled CommonJS version (generated with Babel) is available in lib for use with node.js, browserify and webpack. A UMD bundle is also built to dist, which can be included without the need for any build system.
 
