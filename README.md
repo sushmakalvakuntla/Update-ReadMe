@@ -8,15 +8,13 @@ The shared component library gives developers a collection of re-usable React co
 using npm,
 
         npm install react-wood-duck --save
- 
   
 ## Usage
 
+Now, you can import the components from the library as
 
-   
-     
+        @import { component name } from 'react-wood-duck'
   
-
 ## Development (src, dist and the build process)
 
 NOTE: The source code for the component is in src. A transpiled CommonJS version (generated with Babel) is available in dist for use with node.js and webpack. 
@@ -27,5 +25,5 @@ Please read [CONTRIBUTING.md](http/ .     ) for details on our code of conduct, 
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository] 
 
