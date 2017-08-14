@@ -11,7 +11,7 @@ Contribution and Integration of this pattern library by digital services results
 * [Usage](#usage)
 * [Developmemt](#development)
 * [Contributing](#contributing)
-	* [To Add/Modify Components](#to-add-/-modify-components)
+	* [To Add/Modify Components](#to-add-modify-components)
 	* [Push to git](#push-to-git)
 	* [Versioning](#versioning)
 	* [Publish to NPM](#publish-to-npm)
