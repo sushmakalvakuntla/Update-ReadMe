@@ -8,8 +8,8 @@ Contribution and Integration of this pattern library by digital services results
 * [Installation](#installation)
 * [List of Components](#list-of-components)
 * [Usage](#usage)
-* [Developmemt](*Development (src, dist and the build process))
-* [Contributing](*Contributing)
+* [Developmemt](#Development (src, dist and the build process))
+* [Contributing](#Contributing)
 
 ## List of components
 
@@ -41,6 +41,7 @@ NOTE: The source code for the component is in src. A transpiled CommonJS version
 
 
 ## Contributing
+
 See the [contributing guidlines]() for details on our code of conduct,
 You can contribute by adding and modifying new or excisting components and styles.
 
