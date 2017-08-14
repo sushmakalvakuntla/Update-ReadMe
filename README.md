@@ -8,8 +8,8 @@ Contribution and Integration of this pattern library by digital services results
 * [Installation](#installation)
 * [List of Components](#list-of-components)
 * [Usage](#usage)
-* [Developmemt](#Development (src, dist and the build process))
-* [Contributing](#Contributing)
+* [Developmemt](#development-(src,-dist-and-the-build-process))
+* [Contributing](#contributing)
 
 ## List of components
 
