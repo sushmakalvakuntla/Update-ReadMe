@@ -11,11 +11,11 @@ Contribution and Integration of this pattern library by digital services results
 * [Usage](#usage)
 * [Developmemt](#development)
 * [Contributing](#contributing)
-	* [To Add/Modify Components](#To-Add/Modify-Components)
-	* [Push to git](#Push-to-git)
-	* [Versioning](#Versioning)
-	* [Publish to NPM](#Publish-to-NPM)
-	* [Documentation](#Documentation)
+	* [To Add/Modify Components](#to-add/modify-components)
+	* [Push to git](#push-to-git)
+	* [Versioning](#versioning)
+	* [Publish to NPM](#publish-to-npm)
+	* [Documentation](#documentation)
 
 
 ## List of components
