@@ -49,9 +49,9 @@ NOTE: The source code for the component is in src. A transpiled CommonJS version
 
 
 ## Contributing
-
+Contribution and Integration of this pattern library by digital services results in reducing coding efforts for all developers.
 See the [contributing guidlines]() for details on our code of conduct,
-You can contribute by adding and modifying new or excisting components and styles.
+You can contribute by adding new components and by modifying excisting components and styles.
 
 #### Add and Modify the Components
 
