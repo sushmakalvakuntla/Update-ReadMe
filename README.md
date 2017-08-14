@@ -4,12 +4,19 @@ The react-wood-duck is a shared pattern library hosting re-usable components and
 Contribution and Integration of this pattern library by digital services results in reducing coding efforts for all developers.
 ## Table Of Contents
 
+* [react-wood-duck](#react-wood-duck)
 * [Table of contents](#table-of-contents)
 * [Installation](#installation)
 * [List of Components](#list-of-components)
 * [Usage](#usage)
 * [Developmemt](#development)
 * [Contributing](#contributing)
+	* [To Add/Modify Components](#To Add/Modify Components)
+	* [Push to git](#Push to git)
+	* [Versioning](#Versioning)
+	* [Publish to NPM](#Publish-to-NPM)
+	* [Documentation](#Documentation)
+
 
 ## List of components
 
