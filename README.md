@@ -11,7 +11,7 @@ Contribution and Integration of this pattern library by digital services results
 * [Usage](#usage)
 * [Developmemt](#development)
 * [Contributing](#contributing)
-	* [To Add/Modify Components](#to-add-modify-components)
+	* [Add and Modify the Components](#add-and-modify-the-components)
 	* [Push to git](#push-to-git)
 	* [Versioning](#versioning)
 	* [Publish to NPM](#publish-to-npm)
@@ -53,7 +53,7 @@ NOTE: The source code for the component is in src. A transpiled CommonJS version
 See the [contributing guidlines]() for details on our code of conduct,
 You can contribute by adding and modifying new or excisting components and styles.
 
-#### To Add/Modify Components
+#### Add and Modify the Components
 
 Clone the repository from git
 
