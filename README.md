@@ -6,8 +6,8 @@ Contribution and Integration of this pattern library by digital services results
 
 * [react-wood-duck](#react-wood-duck)
 * [Table of contents](#table-of-contents)
-* [Installation](#installation)
 * [List of Components](#list-of-components)
+* [Installation](#installation)
 * [Usage](#usage)
 * [Developmemt](#development)
 * [Contributing](#contributing)
