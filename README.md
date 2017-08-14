@@ -53,7 +53,7 @@ Contribution and Integration of this pattern library by digital services results
 See the [contributing guidlines]() for details on our code of conduct,
 You can contribute by adding new components and by modifying excisting components and styles.
 
-#### Add and Modify the Components
+### Add and Modify the Components
 
 Clone the repository from git
 
@@ -65,7 +65,7 @@ Create or modify the react components in react-wood-duck/src.
 	
 when you run this, it compiles the "src" code and generates the transpiled CommonJS in “dist” folder within your local machine 
         
-## Push to git
+### Push to git
 
 Commit the changes and push to GitHub
         
@@ -74,18 +74,18 @@ Commit the changes and push to GitHub
 	git commit -m “Your Message and specify the updated version number” 
 	git push origin master  
  	
-## Versioning
+### Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository] 
 Version react-wood-duck after you made changes. 
 
 	npm version patch/minor/major
 	
-## Publish to NPM
+### Publish to NPM
 
 	npm publish -m “ your message/version number”
 	
-## Documentation
+### Documentation
 
 Update the List of Components if you add any new components and styles to this library(Need to be edited)
 
