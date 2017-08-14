@@ -2,8 +2,15 @@
 
 The react-wood-duck is a shared pattern library hosting re-usable components and styles to be used across all CWDS-NS digital services development teams.
 Contribution and Integration of this pattern library by digital services results in reducing coding efforts for all developers.
+# Table Of Contents
 
-## List of components and Updates
+* [Table of contents](#table-of-contents)
+* [Installation](#installation)
+* [List of Components](#list-of-components)
+* [Usage](#usage)
+* [Developmemt](*Development)
+
+## List of components
 
 see the wiki 
 
