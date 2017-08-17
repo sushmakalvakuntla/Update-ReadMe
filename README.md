@@ -71,11 +71,18 @@ To get all npm dependencies, from react-wood-duck directory run command as
 
 Create or Modify the react components by following the [Style Guidelines](https://github.com/airbnb/javascript/tree/master/react).
 
-Make sure to add the components in the index.js file every time you have created a new one to export it.
+Every time when you create the new react components, make sure to export them in the index.js.
+For Example, 
 
-
-After creating or modifying the react components in react-wood-duck/src compile the src code as,
-
+	var Alert = require('./dist/Alert.js').default;
+	var Button = require('./dist/Button.js').default;
+	module.exports = {
+		Alert,
+		Button,
+	};
+		
+After creating or modifying the react components in react-wood-duck/src							
+run,
 	npm run prepublish
 	
 Note: when you run this, it compiles the "src" code and generates the transpiled CommonJS in “dist” folder within your local machine 
@@ -102,5 +109,5 @@ Version react-wood-duck after you made changes.
 	
 ### Documentation
 
-Any necessary documentation can be added or modified in the ReadMe file.
-When you add the new components, update the [List of Components](#list-of-components) in ReadMe file.
+When you add the new components, update the [List of Components](#list-of-components) in ReadMe file.			
+Any necessary documentation can be added.
