@@ -50,9 +50,9 @@ Now, you can import the components from the library into the application as,
 ## Development 
 #### (src, dist)
 
-The most important files in this library are index.js and package.json. As you know, package.json is a standard Npm configuration file. In the index.js file, we have the main export for the components to be exported. It points to the **dist** folder which will be created after the publish task has been run. It will basically transpile the code in **src** to ES5 and place all transpiled files in the dist folder.
+The most important files in this library are index.js and package.json. As you know, package.json is a standard Npm configuration file. In the index.js file, we have the main export for the components to be exported. It points to the **dist** folder which will be created after the publish task has been run. It will basically transpile the code in **src** to ES5 and place all transpiled code in the dist folder.
 
-You will work mostly in the **src** folder were you can write your React component code. If you look in the repo, you’ll find some basic re-usable react components, styles folder were all the CSS are located and images that are needed to support styles part. Also in the **src** folder we have the __tests__ folder were you can right your test cases for the components.
+You will work mostly in the **src** folder where you can write your React component code. If you look in the repo, you’ll find some basic re-usable react components, styles folder where all the CSS and images are located that supports styles. Also in the **src** folder we have the __tests__ folder were you can right your test cases for the components.
 
 **NOTE**: The library is using a babel plugin "transform-es2015-modules-umd" to transpile the code into ES5.
 
@@ -69,6 +69,10 @@ Clone the repository from git
 To get all npm dependencies in react-wood-duck, run command as
 
 	npm install 
+	
+For Specific dependency 
+
+	npm install "dependency-name" 
 
 Create or Modify the react components by following the [Style Guidelines](https://github.com/airbnb/javascript/tree/master/react).
 
