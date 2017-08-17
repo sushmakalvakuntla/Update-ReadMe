@@ -48,15 +48,13 @@ NOTE: The source code for the component is in src. A transpiled CommonJS version
 
 
 ## Contributing
-Contribution and Integration of this pattern library by digital services results in reducing coding efforts for all developers.
-See the [contributing guidelines]() for details on our code of conduct,
-You can contribute by adding new components and by modifying existing components and styles.
+Contribution and Integration of this pattern library by digital services results in reducing coding efforts for all developers. You can contribute by adding new components and by modifying existing components and styles.
 
 ### Add and Modify the Components
 
 Clone the repository from git
 
-	git clone link
+	git clone https://github.com/ca-cwds/react-wood-duck.git
 
 After creating or modifying the react components in react-wood-duck/src
 To Compile,
@@ -83,7 +81,7 @@ Version react-wood-duck after you made changes.
 	
 ### Publish to NPM
 
-	npm publish -m “ your message/version number”
+	npm publish -m “your message/version number”
 	
 ### Documentation
 
