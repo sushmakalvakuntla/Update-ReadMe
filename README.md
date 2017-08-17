@@ -1,6 +1,7 @@
 # react-wood-duck
 
 The react-wood-duck is a shared pattern library hosting re-usable components and styles to be used across all CWS-NS digital services.This library provides a common ‘language’ for CWS-NS designers and developers for front-end assets. It is aimed at improving communication, collaboration, productivity, and reducing coding efforts.
+
 ## Table of Contents
 
 * [react-wood-duck](#react-wood-duck)
@@ -49,14 +50,15 @@ Now, you can import the components from the library into the application as,
   
 ## Development 
 #### (src, dist)
-The most important files in this library are index.js and package.json. As you know, package.json is a standard Npm configuration file. In the index.js file, we have the main export for the components to be exported. It points to the #dist folder which will be created after the publish task has been run. It will basically transcompile the code in #src to ES5 and place all transpiled files in the dist folder.
 
-You will work mostly in the src folder were you can write your React component code. If you look in the repo, you’ll find some basic re-usable react components, styles folder were all the CSS are located and images that are needed to support styles part. Also in the src folder we have the __tests__ folder were you can right your test cases for the components.
+The most important files in this library are index.js and package.json. As you know, package.json is a standard Npm configuration file. In the index.js file, we have the main export for the components to be exported. It points to the **dist** folder which will be created after the publish task has been run. It will basically transcompile the code in **src** to ES5 and place all transpiled files in the dist folder.
 
-*NOTE: The library is using a babel plugin "transform-es2015-modules-umd" to transpile the code into ES5.
+You will work mostly in the **src** folder were you can write your React component code. If you look in the repo, you’ll find some basic re-usable react components, styles folder were all the CSS are located and images that are needed to support styles part. Also in the **src** folder we have the __tests__ folder were you can right your test cases for the components.
 
+**NOTE**: The library is using a babel plugin "transform-es2015-modules-umd" to transpile the code into ES5.
 
 ## Contributing
+
 Contribution and Integration of this pattern library by digital services results in reducing coding efforts for all developers. You can contribute by adding new components and by modifying existing components and styles.
 
 ### Add and Modify the Components
@@ -81,12 +83,12 @@ For Example,
 		Button,
 	};
 		
-After creating or modifying the react components in react-wood-duck/src							
+After creating or modifying the react components in **react-wood-duck/src**						
 run,
 
 	npm run prepublish
 	
-Note: when you run this, it compiles the "src" code and generates the transpiled CommonJS in “dist” folder within your local machine 
+Note: when you run this, it compiles the **"src"** code and generates the transpiled CommonJS in **“dist”** folder within your local machine 
         
 ### Push to git
 
