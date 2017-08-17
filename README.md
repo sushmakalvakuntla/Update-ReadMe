@@ -75,7 +75,7 @@ For Specific dependency:
 Create or Modify the react components by following the [Style Guidelines](https://github.com/airbnb/javascript/tree/master/react).
 
 Every time when you create the new react components, make sure to export them in the index.js file.
-For Example, 
+For Example:
 
 	var Alert = require('./dist/Alert.js').default;
 	var Button = require('./dist/Button.js').default;
@@ -84,7 +84,7 @@ For Example,
 		Button,
 	};
 		
-After creating or modifying the react components in **react-wood-duck/src**						
+After creating or modifying the react components in **react-wood-duck/src**,
 run command:
 
 	npm run prepublish
