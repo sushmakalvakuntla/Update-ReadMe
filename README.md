@@ -31,17 +31,17 @@ The react-wood-duck is a shared pattern library hosting re-usable components and
 
 ## Installation
 
-To Install
+To Install:
 
 	npm install react-wood-duck --save
 
-For specific version 
+For specific version:
 
 	npm install react-wood-duck@version
   
 ## Usage
 
-Now, you can import the components from the library into the application as,
+Now, you can import the components from the library into the application:
 
 	@import {component-name} from 'react-wood-duck'
   
@@ -60,15 +60,15 @@ Contribution and Integration of this pattern library by digital services results
 
 ### Add and Modify the Components
 
-Clone the repository from git
+Clone the repository from git:
 
 	git clone https://github.com/ca-cwds/react-wood-duck.git
 
-To get all npm dependencies in react-wood-duck, run command as
+To get all npm dependencies in react-wood-duck, run command:
 
 	npm install 
 	
-For Specific dependency 
+For Specific dependency: 
 
 	npm install "dependency-name" 
 
@@ -85,7 +85,7 @@ For Example,
 	};
 		
 After creating or modifying the react components in **react-wood-duck/src**						
-run as,
+run command:
 
 	npm run prepublish
 	
@@ -93,7 +93,7 @@ run as,
         
 ### Push to git
 
-Commit the changes and push to GitHub
+Commit the changes and push to GitHub:
         
 	git status 
 	git add . 
@@ -102,7 +102,7 @@ Commit the changes and push to GitHub
  	
 ### Versioning
 
-Use [SemVer](http://semver.org/) for versioning.
+Use [SemVer](http://semver.org/) for versioning:
 
 	npm version patch/minor/major
 	
