@@ -64,7 +64,7 @@ run as,
 
 	npm run prepublish
 	
-when you run this, it compiles the "src" code and generates the transpiled CommonJS in “dist” folder within your local machine 
+Note: when you run this, it compiles the "src" code and generates the transpiled CommonJS in “dist” folder within your local machine 
         
 ### Push to git
 
