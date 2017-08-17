@@ -31,11 +31,11 @@ The react-wood-duck is a shared pattern library hosting re-usable components and
 
 ## Installation
 
-using npm,
+To Install
 
 	npm install react-wood-duck --save
 
-for specific version 
+For specific version 
 
 	npm install react-wood-duck@version
   
