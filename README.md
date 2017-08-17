@@ -4,8 +4,6 @@ The react-wood-duck is a shared pattern library hosting re-usable components and
 
 ## Table of Contents
 
-* [react-wood-duck](#react-wood-duck)
-* [Table of contents](#table-of-contents)
 * [List of Components](#list-of-components)
 * [Installation](#installation)
 * [Usage](#usage)
