@@ -1,6 +1,6 @@
 # react-wood-duck
 
-The react-wood-duck is a shared pattern library hosting re-usable components and styles to be used across all CWS-NS digital services.This library provides a common ‘language’ for CWS-NS designers and developers for front-end assets. It is aimed at improving communication, collaboration, productivity, and reducing coding efforts.
+The react-wood-duck is a shared pattern library hosting re-usable components and styles to be used across all CWS-NS digital services. This library provides a common ‘language’ for CWS-NS designers and developers for front-end assets. It is aimed at improving communication, collaboration, productivity, and reducing coding efforts.
 
 ## Table of Contents
 
@@ -16,7 +16,6 @@ The react-wood-duck is a shared pattern library hosting re-usable components and
 	* [Versioning](#versioning)
 	* [Publish to NPM](#publish-to-npm)
 	* [Documentation](#documentation)
-
 
 ## List of components
 
@@ -84,11 +83,11 @@ For Example,
 	};
 		
 After creating or modifying the react components in **react-wood-duck/src**						
-run,
+run as,
 
 	npm run prepublish
 	
-Note: when you run this, it compiles the **"src"** code and generates the transpiled CommonJS in **“dist”** folder within your local machine 
+**Note:** when you run this, it compiles the **"src"** code and generates the transpiled CommonJS in **“dist”** folder within your local machine 
         
 ### Push to git
 
