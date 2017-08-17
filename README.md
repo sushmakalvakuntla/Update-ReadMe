@@ -101,8 +101,7 @@ Commit the changes and push to GitHub
  	
 ### Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository] 
-Version react-wood-duck after you made changes. 
+Use [SemVer](http://semver.org/) for versioning.
 
 	npm version patch/minor/major
 	
