@@ -53,7 +53,7 @@ The most important files in this library are index.js and package.json. As you k
 
 You will work mostly in the src folder were you can write your React component code. If you look in the repo, you’ll find some basic re-usable react components, styles folder were all the CSS are located and images that are needed to support styles part. Also in the src folder we have the __tests__ folder were you can right your test cases for the components.
 
-NOTE: The library is using a babel plugin "transform-es2015-modules-umd" to transpile the code into ES5.
+*NOTE: The library is using a babel plugin "transform-es2015-modules-umd" to transpile the code into ES5.
 
 
 ## Contributing
