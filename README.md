@@ -72,8 +72,7 @@ To get all npm dependencies, from react-wood-duck directory run command as
 
 Create or Modify the react components by following the [Style Guidelines](https://github.com/airbnb/javascript/tree/master/react).
 
-After creating or modifying the react components in react-wood-duck/src
-To Compile,
+After creating or modifying the react components in react-wood-duck/src compile the src code as,
 
 	npm run prepublish
 	
