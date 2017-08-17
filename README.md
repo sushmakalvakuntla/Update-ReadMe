@@ -66,6 +66,10 @@ Clone the repository from git
 
 	git clone https://github.com/ca-cwds/react-wood-duck.git
 
+To get all npm dependencies, from react-wood-duck directory run command as
+
+	npm link 
+
 Create or Modify the react components by following the [Style Guidelines](https://github.com/airbnb/javascript/tree/master/react).
 
 After creating or modifying the react components in react-wood-duck/src
