@@ -66,7 +66,7 @@ Clone the repository from git
 
 	git clone https://github.com/ca-cwds/react-wood-duck.git
 
-Follow the styleguide https://github.com/ca-cwds/case-management/wiki/Code-Style-Guidelines while creating the components 
+Follow the [Style Guidelines](https://github.com/ca-cwds/case-management/wiki/Code-Style-Guidelines) while creating the components 
 
 After creating or modifying the react components in react-wood-duck/src
 To Compile,
