@@ -65,13 +65,13 @@ Clone the repository from git
 
 	git clone https://github.com/ca-cwds/react-wood-duck.git
 
-To get all npm dependencies, from react-wood-duck directory run command as
+To get all npm dependencies in react-wood-duck, run command as
 
-	npm link 
+	npm install 
 
 Create or Modify the react components by following the [Style Guidelines](https://github.com/airbnb/javascript/tree/master/react).
 
-Every time when you create the new react components, make sure to export them in the index.js.
+Every time when you create the new react components, make sure to export them in the index.js file.
 For Example, 
 
 	var Alert = require('./dist/Alert.js').default;
@@ -83,6 +83,7 @@ For Example,
 		
 After creating or modifying the react components in react-wood-duck/src							
 run,
+
 	npm run prepublish
 	
 Note: when you run this, it compiles the "src" code and generates the transpiled CommonJS in “dist” folder within your local machine 
