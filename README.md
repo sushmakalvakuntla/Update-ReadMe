@@ -43,7 +43,7 @@ Now, you can import the components from the library into the application as,
    <img alt="Syntax highlighted styled component" src="https://user-images.githubusercontent.com/30934662/29230515-456a29cc-7e98-11e7-9fb4-2b1a34a98a55.png" height="300px" />
   
 ## Development 
-##### (src, dist and the build process)
+#### (src, dist and the build process)
 
 NOTE: The source code for the component is in src. A transpiled CommonJS version (generated with Babel) is available in dist for use with node.js and webpack.A UMD bundle is also built to dist, which can be included without the need for any build system.
 
