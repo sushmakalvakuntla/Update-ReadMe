@@ -19,7 +19,17 @@ The react-wood-duck is a shared pattern library hosting re-usable components and
 
 ## List of components
 
-see the wiki 
+Alerts
+Button
+Cards
+CheckboxRadioGroup
+DropDownField
+DatePicker
+InputComponent
+ListItem
+Select/Multiselect
+TextArea
+Table
 
 ## Installation
 
@@ -85,7 +95,10 @@ Version react-wood-duck after you made changes.
 	
 ### Documentation
 
-Update the List of Components if you add any new components and styles to this library(Need to be edited)
+Any necessary documentation can be added or modified in the ReadMe file.
+When you add the new components, update the [List of Components](#list-of-components) in ReadMe file.
+
+
 
 
 
